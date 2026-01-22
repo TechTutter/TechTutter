@@ -1,4 +1,4 @@
-# <img src="./assets/tutter-welcome-anim.gif" width="40" vertical-align="middle" /> I'm Federico, but they call me **Tutter**
+# <img src="./assets/tutter-welcome-anim.gif" width="40" vertical-align="middle" /> I'm TechTutter, but they call me **Federico**
 
 <p align="left">
   <a href="https://federicolorrai.it"><img src="https://img.shields.io/badge/Portfolio-federicolorrai.it-3178C6?style=for-the-badge&logo=react&logoColor=white" /></a>
