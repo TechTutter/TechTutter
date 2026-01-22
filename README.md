@@ -9,6 +9,32 @@ Fullstack Software Engineer (MSc Computer Engineering & AI) currently building t
 
 I’m a **Generalist by design**: I navigate from pixel-perfect React UIs down to API design and integration, and GCP deployment pipelines.
 
+---
+
+### 🚀 Highlighted Projects
+
+<table width="100%">
+  <tr>
+      <td width="33%" align="center" valign="top">
+      <b>🏠 Domotics App (BSc)</b>
+      <br/>
+      <sub>Raspberry Pi-based home automation system from my final BSc project.</sub>
+      <br/><br/>
+      <a href="https://github.com/TechTutter/raspberry-domotics-app"><b>View Repo →</b></a>
+    </td>
+    <td width="33%" align="center" valign="top">
+      <b>🔍 RAG System</b>
+      <br/>
+      <sub>AI-driven document intelligence built with Python, LangChain, and Vector DBs.</sub>
+      <br/><br/>
+      <a href="https://github.com/TechTutter/rag-project"><b>View Repo →</b></a>
+    </td>
+
+  </tr>
+</table>
+
+---
+
 ### ⚔️ Engineering Grit
 
 To me, engineering is about solving the "unsolvable" and staying until the job is done. This completionist mindset is best summarized by my steam library:
@@ -53,8 +79,8 @@ Moving beyond just tools, I focus on building cohesive digital experiences with 
 
 I'm always open to discussing system design, AI agents, or why DS3 is the best in the series.
 
-- **Explore:** [federicolorrai.it](https://federicolorrai.it)
-- **Networking:** [federicolorrai](https://www.linkedin.com/in/federicolorrai/)
+- **Check my work:** [federicolorrai.it](https://federicolorrai.it)
+- **Get in touch:** [federicolorrai](https://www.linkedin.com/in/federicolorrai/)
 
 ---
 
