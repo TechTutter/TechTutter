@@ -1,58 +1,70 @@
-# Warm welcome to My Git!
+# <img src="./assets/tutter-welcome-anim.gif" width="40" vertical-align="middle" /> I'm Federico, but they call me **Tutter**
 
-<p>Hi there! I'm <b><i>TechTutter</i></b> - also known as <b><i>Lepre</i></b>. Here you can  <b><i>git</i></b> to know me better by peeking my public repositories, or using the links provided below. Note that my profile is (and most likely will always be) still Work in Progress 🛠️🚧!</p>
-
- <p align="center">
-<img draggable="false" height="200" src="./assets/tutter-welcome-anim.gif" />
+<p align="left">
+  <a href="https://federicolorrai.it"><img src="https://img.shields.io/badge/Portfolio-federicolorrai.it-3178C6?style=for-the-badge&logo=react&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/federicolorrai/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
-<p>I'm an Italian <b><i>Software Engineer</i></b> working at <b><a href="https://www.akina.health/en/home">Akina</a></b>. I graduated at UNIGE <i>cum laude</i> in 2021, obtaining an <b><i>MSc in Computer Engineering</i></b> and Artificial intelligence. I also like challenges and I am very perseverant, as summarized by the image below 🤓.
-</p>
+Fullstack Software Engineer (MSc Computer Engineering & AI) currently building the future of physical therapy at **[Akina](https://www.akina.health/en/home)**. I build robust, scalable architectures by day and experiment with AI-driven workflows by night. 
+
+I’m a **Generalist by design**: I navigate from pixel-perfect React UIs down to API design and integration, and GCP deployment pipelines.
+
+### ⚔️ Engineering Grit
+
+To me, engineering is about solving the "unsolvable" and staying until the job is done. This completionist mindset is best summarized by my steam library:
 
 <p align="center">
-<img draggable="false" style="border-radius: 4px" height="180" src="./assets/ds3-steam-completionist.png" />
+  <img src="./assets/ds3-steam-completionist.png" style="border-radius: 12px; border: 1px solid #30363d;" height="180" />
+  <br/>
+  <i>"Don't you dare go hollow." — Dark Souls III 100% Completionist mindset.</i>
 </p>
 
-<p>Feel free to explore my projects and leave a ⭐ if you like them!</p>
+---
 
-## My Tech Stack
+### 🛠️ Technical Ecosystem
+
+Moving beyond just tools, I focus on building cohesive digital experiences with a clean, typed codebase.
+
+| Domain | Expertise | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
+| :--- | :--- | :--- |
+| **Frontend** | `Typescript` `React` `Tailwind` `Vite` | <img src="https://skillicons.dev/icons?i=ts,react,tailwind,vite&theme=dark" height="25" /> |
+| **Backend** | `Python` `FastAPI` `Node.js` `Postgres` | <img src="https://skillicons.dev/icons?i=py,fastapi,js,postgres&theme=dark" height="25" /> |
+| **Cloud & Ops** | `GCP` `Docker` `Git` `Linux` | <img src="https://skillicons.dev/icons?i=gcp,docker,git,linux&theme=dark" height="25" /> |
+| **AI Lab** | `LLMs` `RAG Architectures` `Vector DBs` | <img src="https://skillicons.dev/icons?i=pydantic,githubactions&theme=dark" height="25" /> |
+
+---
+
+### 📊 Growth Dashboard
+
+<table width="100%">
+  <tr>
+    <td width="55%" align="center" valign="top">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TechTutter&hide_border=true&bg_color=0d1117&text_color=adbac7&title_color=58a6ff&layout=compact&exclude_repo=natural-language-processing,Software-Engineering-Exam---Rina&langs_count=6" width="100%" />
+    </td>
+    <td width="45%" align="center" valign="top">
+      <img src="https://streak-stats.demolab.com?user=TechTutter&theme=dark&background=0d1117&hide_border=true&ring=58a6ff&sideNums=adbac7&stroke=adbac7" width="100%" />
+    </td>
+  </tr>
+</table>
+
+---
+
+### 📫 Let's Connect
+
+I'm always open to discussing system design, AI agents, or why DS3 is the best in the series.
+
+- **Explore:** [federicolorrai.it](https://federicolorrai.it)
+- **Networking:** [federicolorrai](https://www.linkedin.com/in/federicolorrai/)
+
+---
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=ts,react,tailwind,express,nodejs,postgres,docker,kubernetes,aws,vite,git,linux&theme=dark" />
+  <img src="./assets/tutter-welcome-anim.gif" width="100" />
+  <br/>
+  <sub>Profile (and life) is always a Work in Progress 🛠️</sub>
 </p>
 
->
-
-## My GitHub Statistics 📊
-
-<div style="background-color: #0d1117; width: 100%;border-radius:24px;padding:16px">
-<img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TechTutter&hide_border=true&bg_color=ffffff00&text_color=adbac7&title_color=adbac7&layout=compact&exclude_repo=natural-language-processing,Software-Engineering-Exam---Rina&langs_count=4" />
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=TechTutter&theme=dark&background=transparent&hide_border=true" />
+### 📜 Credits
+<p align="left">
+  <sub><a href="https://chpic.su/en/stickers/TutterMouse/">Tutter Stickers</a> retrieved from Chpic.su.</sub>
 </p>
-
-</div>
-
-## My Links
-
-Here you can access my Portfolio, my email, or my LinkedIn.
-
-<p align="center">
-<a href="https://federicolorrai.it" target="_blank" style="color: #3178C6;">
-    <img height="48"src="assets/portfolio-fake-btn.png"  title="Visit my Portfolio at federicolorrai.it" /></a>
-</p>
-
-<p align="center">
-    <a href="https://www.linkedin.com/in/federicolorrai/">
-        <img width="24" src="assets/linkedin.png"  title="My LinkedIn" / >
-    </a>
-    <a style="margin-left:10px" href="mailto:f.lorrai.95@gmail.com">
-        <img width="24" src="assets/mail.png"  title="Reach by Email" />
-    </a>
-</p>
-
-## Credits for assets
-
-<p align="center"><a href="https://chpic.su/en/stickers/TutterMouse/" title="tutter stickers">Tutter Stickers retrieved here</a></p>
-<p align="center"><a href="https://www.flaticon.com/free-icons/email" title="email icons">Contact icons created by Fathema Khanom - Flaticon</a></p>
