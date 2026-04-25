@@ -7,8 +7,6 @@
 
 > Currently building the future of physiotherapy at **[Akina](https://www.akina.health/)**.
 
----
-
 ## 🚀 Highlighted Projects
 
 <table width="100%">
