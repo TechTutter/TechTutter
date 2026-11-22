@@ -7,34 +7,6 @@
 
 > Currently building the future of physiotherapy at **[Akina](https://www.akina.health/)**.
 
-## 🚀 Highlighted Projects
-
-<table width="100%">
-  <tr>
-    <td width="33%" align="center" valign="top">
-      <b>🏠 Domotics App (BSc)</b>
-      <br/>
-      <sub>Raspberry Pi-based home automation system from my final BSc project.</sub>
-      <br/><br/>
-      <a href="https://github.com/TechTutter/raspberry-domotics-app"><b>View Repo →</b></a>
-    </td>
-    <td width="33%" align="center" valign="top">
-      <b>🔍 RAG System</b>
-      <br/>
-      <sub>AI-driven document intelligence built with Python, LangChain, and Vector DBs.</sub>
-      <br/><br/>
-      <a href="https://github.com/TechTutter/rag-project"><b>View Repo →</b></a>
-    </td>
-    <td width="33%" align="center" valign="top">
-      <b>🚦 Distributed Systems Rate Limiter</b>
-      <br/>
-      <sub>Sliding window rate limiter shared by N stateless FastAPI replicas through Redis. Python 3.13, Redis 7, Prometheus, Grafana, k6.</sub>
-      <br/><br/>
-      <a href="https://github.com/TechTutter/distributed-systems-rate-limiter"><b>View Repo →</b></a>
-    </td>
-  </tr>
-</table>
-
 ## 📫 Let's Connect
 
 - **Check my work:** [techtutter.com](https://techtutter.com)
